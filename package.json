@@ -1,0 +1,14 @@
+{
+  "name": "rivemont-provably-fair-verifier",
+  "version": "1.0.0",
+  "description": "Rivemont provably fair verifier",
+  "main": "bundle",
+  "author": "Rivemont",
+  "license": "ISC",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "js-sha256": "^0.9.0"
+  }
+}
